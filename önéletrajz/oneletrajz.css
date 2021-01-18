@@ -1,0 +1,27 @@
+img {
+width: 5cm;
+height: 5cm;
+text-align: end;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+th {
+    background-color: black;
+    color: white;
+    border-color: whitesmoke;
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+}
+body {
+    background-color: black;
+}
+
+a {
+    color: cornsilk;
+}
+
